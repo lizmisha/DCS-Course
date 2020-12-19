@@ -1,0 +1,9 @@
+name: hw_01
+channels:
+  - defaults
+dependencies:
+  - pip=20.3
+  - python=3.7
+  - pip:
+    - numpy==1.19.0
+prefix: /Users/mihailliz/anaconda3/envs/hw_01
